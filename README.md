@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Enthusiast;Computer+Vision+Researcher;Big+Data+Analytics+Developer;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=250&section=header&text=Welcome%20To%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=250&section=header&text=Ikkada%20Em ledu%20Ela Vachavo Alage vellipo&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -14,15 +14,9 @@
 
 - 🎓 B.Tech Artificial Intelligence & Data Science
 - 🏫 Amrita Vishwa Vidyapeetham
-- ⚡ Fun Fact: *"Code. Learn. Build. Repeat."*
+  
 
-**🌱 Currently Learning**
-- Deep Learning
-- Computer Vision
-- Big Data Analytics
-- Apache Spark
-- Hadoop
-- Docker
+
 
 **🔬 Interested In**
 - Explainable AI

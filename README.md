@@ -124,6 +124,6 @@
 
 ### ⭐ If you like my projects, don't forget to star them!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,100:00DBDE&height=120&section=footer&text=Motham%20Chusesava?%20Antha%20Sodi%20Poyi%20Panchusko&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,100:00DBDE&height=120&section=footer&text=Motham%20Chusesava?%20Antha%20Sodi%20Poyi%20Panichusko&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
